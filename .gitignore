@@ -1,0 +1,13 @@
+*.bed
+*.gds
+*.kin
+*.kin0
+*.seg
+*.nosex
+*ukb24727*
+*ukbb24727*
+variants.tsv.bgz
+assoc/old/
+locusfocus_prep/old/
+Note.txt
+jobout

@@ -1,0 +1,28 @@
+PLINK v1.90b6.18 64-bit (16 Jun 2020)
+Options in effect:
+  --bfile 12-unrelated_1KG_plus_UKBiobank_pruned_set
+  --keep ukbb_copd_cases.txt
+  --make-bed
+  --out 13-ukbb_copd_cases_only
+
+Hostname: qlogin10.ccm.sickkids.ca
+Working directory: /hpf/largeprojects/struglis/naim/210402-ukbb_analyses/copd/spirometry_assoc_in_copd/pca
+Start time: Sun Apr  4 18:40:12 2021
+
+Random number seed: 1617576012
+172105 MB RAM detected; reserving 86052 MB for main workspace.
+Allocated 15315 MB successfully, after larger attempt(s) failed.
+31144 variants loaded from .bim file.
+453001 people (208825 males, 244080 females, 96 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 13-ukbb_copd_cases_only.nosex .
+--keep: 1410 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1410 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.996791.
+31144 variants and 1410 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to 13-ukbb_copd_cases_only.bed + 13-ukbb_copd_cases_only.bim +
+13-ukbb_copd_cases_only.fam ... done.
+
+End time: Sun Apr  4 18:40:16 2021
