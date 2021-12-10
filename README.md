@@ -62,6 +62,6 @@ The [GWAS of Meconium Ileus (MI)](https://journals.plos.org/plosgenetics/article
 
 Colocalization was observed when the genome-wide associated peak was tested:  
 
-![](products\locusfocus_results\peak_test_205899-205925kbp/colocalization_plot_SStest_205899-205925.png)
+![](products/locusfocus_results/peak_test_205899-205925kbp/colocalization_plot_SStest_205899-205925.png)
 *[LocusFocus](https://locusfocus.research.sickkids.ca) plot testing colocalization of [MI GWAS](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008007) with UKBB spirometry measures in all participants and in participants with COPD as per GOLD2-4 definitions. The Simple Sum colocalization region tested (gray area) was selected to match the observed peak at chr1:205,899,000-205,925,000. A total of 87 SNPs in this region were used to test for colocalization using the [Simple Sum method](https://www.biorxiv.org/content/biorxiv/early/2021/08/07/2021.08.06.455333.full.pdf)*
 
