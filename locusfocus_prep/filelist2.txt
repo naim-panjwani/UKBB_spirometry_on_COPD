@@ -1,6 +1,0 @@
-../assoc/bestpef.irnt.copd.tsv	PEF in COPD, N=842	chrom	pos	rsid	P
-../assoc/20150.irnt.copd.tsv	FEV1 in COPD, N=1001	chrom	pos	rsid	P
-../assoc/20151.irnt.copd.tsv	FVC in COPD, N=1001	chrom	pos	rsid	P
-../assoc/20154.irnt.copd.tsv	FEV1pp in COPD, N=537	chrom	pos	rsid	P
-../assoc/fev_fvc_best.irnt.copd.tsv	FEV1/FVC ratio in COPD, N=1001	chrom	pos	rsid	P
-

@@ -1,9 +1,6 @@
-../assoc/3062.irnt.copd.tsv	FVC in COPD	chrom	pos	rsid	P
-../assoc/3063.irnt.copd.tsv	FEV1 in COPD	chrom	pos	rsid	P
-../assoc/3064.irnt.copd.tsv	PEF in COPD	chrom	pos	rsid	P
-../assoc/20150.irnt.copd.tsv	FEV1 in COPD, best measure	chrom	pos	rsid	P
-../assoc/20151.irnt.copd.tsv	FVC in COPD, best measure	chrom	pos	rsid	P
-../assoc/20154.irnt.copd.tsv	FEV1pp in COPD	chrom	pos	rsid	P
-../assoc/fev_fvc.irnt.copd.tsv	FEV1/FVC ratio in COPD	chrom	pos	rsid	P
-../assoc/fev_fvc_best.irnt.copd.tsv	FEV1/FVC ratio in COPD, best measure	chrom	pos	rsid	P
+../data/clean/assoc/tsv/ratio.irnt.assoc.tsv	FEV1/FVC in UKBB (N=167,655)	chrom	pos	rsid	P
+../data/clean/assoc/tsv/fev1pp.irnt.assoc.tsv	FEV1pp in UKBB (N=167,655)	chrom	pos	rsid	P
+../data/clean/assoc/tsv/ratio.irnt.assoc_copd_only.tsv	FEV1/FVC in COPD (N=14,196)	chrom	pos	rsid	P
+../data/clean/assoc/tsv/fev1pp.irnt.assoc_copd_only.tsv	FEV1pp in COPD (N=14,196)	chrom	pos	rsid	P
+../data/clean/assoc/tsv/hasCOPD.assoc.tsv	COPD case-control (N=167,655)	chrom	pos	rsid	P
 
