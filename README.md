@@ -67,3 +67,13 @@ Colocalization was observed when the genome-wide associated peak was tested:
 
 
 Colocalization results obtained are summarized in [Secondary_datasets_SS_pvalues_SStest_205899-205925.csv](products/locusfocus_results/peak_test_205899-205925kbp/Secondary_datasets_SS_pvalues_SStest_205899-205925.csv). In short, the MI GWAS colocalizes with FEV<sub>1</sub>/FVC ratio and COPD case-control association studies from the UKBB, and this colocalization is found to be statistically significant after [multiple testing correction](products/locusfocus_results/peak_test_205899-205925kbp/SSguidanceTable_SStest_205899-205925.csv) (-log<sub>10</sub>10 > 1.60).
+
+
+| Dataset | -log<sub>10</sub>P Colocalization |
+|---|---|
+|COPD case-control (N=167,655)|5.28|
+|FEV<sub>1</sub>/FVC in UKBB (N=167,655)|7.08|
+|FEV<sub>1</sub>pp in UKBB (N=167,655)|Did not pass first stage test|
+|FEV<sub>1</sub>/FVC in COPD (N=14,196)|Did not pass first stage test|
+|FEV<sub>1</sub>pp in COPD (N=14,196)|Did not pass first stage test|
+
